@@ -11,3 +11,4 @@
 
 
 (substring "012345678" 2 4)
+(string-append "1" "2")
