@@ -4,7 +4,7 @@
 ;; String -> String     !signature!
 ;; pluralize a given word (add s to the end)    !purpose!
 
-;; (define (plural word) "Word") ; stub
+;; (define (plural str) "") ; stub
 
 (check-expect (plural "Word") "Words")
 (check-expect (plural "Boat") "Boats")
